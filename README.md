@@ -1,3 +1,3 @@
 # ToDoList
 
-Simple ios application.
+Simple iOS application developed in swift.
